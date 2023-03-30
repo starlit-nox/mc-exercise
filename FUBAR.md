@@ -1,2 +1,2 @@
-How to ACP Right
-We're in class working on **ACP**. What's the difference between **ACP** and a **CUP**? A see P and C you P! 
+A-C-P practice project, whatchamacallit
+Why dont shoemakers eat their work? they dont like the taste of de feet (defeat)
